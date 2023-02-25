@@ -1,4 +1,7 @@
-### Hi there 👋
+### Work & Studies
+
+Hello, I am a student at [UCBL](http://master-info.univ-lyon1.fr/TIW/). I am studying web technologies. 
+I am doing an apprenticeship at the telecommunications company Orange.
 
 <!--
 **Wobbyz/Wobbyz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
